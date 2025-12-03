@@ -1,0 +1,18 @@
+Campus Energy Consumption Report
+----------------------------------------
+Total Campus Consumption: 255.00 kWh
+
+Highest Consuming Building:
+- Kaveri tower-c: 135.00 kWh
+
+Peak Load:
+- Timestamp: 2025-11-11 00:00:00
+- kWh: 135.00
+
+Insights:
+- Day with highest consumption: 2025-11-11 (135.00 kWh)
+- Week with highest consumption ending on: 2025-11-16 (135.00 kWh)
+
+Dashboard file: C:\Users\TANMAY\Desktop\Capstonepython\dashboard.png
+Cleaned data file: C:\Users\TANMAY\Desktop\Capstonepython\cleaned_energy_data.csv
+Building summary file: C:\Users\TANMAY\Desktop\Capstonepython\building_summary.csv
